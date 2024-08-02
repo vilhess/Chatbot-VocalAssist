@@ -1,0 +1,7 @@
+gTTS==2.3.1
+ollama==0.3.1
+pyttsx4==3.0.15
+scipy==1.14.0
+sounddevice==0.4.6
+streamlit==1.23.1
+whisper==1.1.10
